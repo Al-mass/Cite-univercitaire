@@ -286,7 +286,7 @@ Selon la répartition décidée par la cheff **Fatime Hamid Ambou**, voici ce qu
 
 ---
 
-### **Souleymane Mahamat Tahir** | 23A169FS
+### **Souleyman Mahamat Tahir** | 23A169FS
 **🛠️ Utilitaires & Fonctions** — Infrastructure logicielle réutilisable
 - Fonctions métier (30+)
 - Gestion des images (upload, redimensionnement)
@@ -411,7 +411,7 @@ Ce projet est la propriété de l'Université de Ngaoundéré.
 | Dimougna Clément | 22B197FS | Pages publiques |
 | Adoum Mahamat-Zene | 23A163FS | Espace Étudiant |
 | Kokanoun Marcel | 22A255FS | Auth & Config |
-| Souleymane Mahamat Tahir | 23A169FS | Utilitaires |
+| Souleyman Mahamat Tahir | 23A169FS | Utilitaires |
 
 ---
  
